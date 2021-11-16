@@ -19,7 +19,7 @@ IS_SUCCESSFUL—Was the money used effectively
 For this exercise, I will perform the following actions:
 1. Preprocessing Data for a Neural Network Model
 2. Compile, Train, and Evaluate the Model
-3. Deliverable 3: Optimize the Model
+3. Optimize the Model
 
 ## Results
 ### Data Preprocessing
