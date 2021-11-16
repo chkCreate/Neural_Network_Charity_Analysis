@@ -14,12 +14,12 @@ STATUS—Active status\
 INCOME_AMT—Income classification\
 SPECIAL_CONSIDERATIONS—Special consideration for application\
 ASK_AMT—Funding amount requested\
-IS_SUCCESSFUL—Was the money used effectively\
+IS_SUCCESSFUL—Was the money used effectively
 
 For this exercise, I will perform the following actions:
-1. Preprocessing Data for a Neural Network Model\
-2. Compile, Train, and Evaluate the Model\
-3. Deliverable 3: Optimize the Model\
+1. Preprocessing Data for a Neural Network Model
+2. Compile, Train, and Evaluate the Model
+3. Deliverable 3: Optimize the Model
 
 ## Results
 ### Data Preprocessing
@@ -36,7 +36,7 @@ ORGANIZATION—Organization type\
 STATUS—Active status\
 INCOME_AMT—Income classification\
 SPECIAL_CONSIDERATIONS—Special consideration for application\
-ASK_AMT—Funding amount requested\
+ASK_AMT—Funding amount requested
 
 3. What variable(s) are neither targets nor features, and should be removed from the input data\?
 EIN and NAME are identification columns, and have no impact to the model\. 
